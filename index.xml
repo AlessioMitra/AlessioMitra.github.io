@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Alessio Mitra</title>
     <link>https://AlessioMitra.github.io/</link>
       <atom:link href="https://AlessioMitra.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Alessio Mitra</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 24 Aug 2019 22:59:52 +0200</lastBuildDate>
     <image>
       <url>https://AlessioMitra.github.io/img/icon-192.png</url>
-      <title>Academic</title>
+      <title>Alessio Mitra</title>
       <link>https://AlessioMitra.github.io/</link>
     </image>
+    
+    <item>
+      <title>Politicians characteristics and policy choices</title>
+      <link>https://AlessioMitra.github.io/publication/on-politicians-behaviour/on-politicians-behaviour/</link>
+      <pubDate>Sat, 24 Aug 2019 22:59:52 +0200</pubDate>
+      <guid>https://AlessioMitra.github.io/publication/on-politicians-behaviour/on-politicians-behaviour/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federal Reforms, political accountability and economic wealth / working paper</title>
+      <link>https://AlessioMitra.github.io/publication/on-belgian-federal-reform/on-belgian-federal-reform/</link>
+      <pubDate>Sat, 24 Aug 2019 22:35:59 +0200</pubDate>
+      <guid>https://AlessioMitra.github.io/publication/on-belgian-federal-reform/on-belgian-federal-reform/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
